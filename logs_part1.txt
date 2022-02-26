@@ -1,0 +1,49 @@
+PS D:\OpenServer\domains\front_end_pro\01_git\HW1-GIT> git reflog
+57a2eca (HEAD -> master, origin/master, develop) HEAD@{0}: merge develop: Fast-forward
+0c3dccb (feature2, feature1) HEAD@{1}: checkout: moving from develop to master
+57a2eca (HEAD -> master, origin/master, develop) HEAD@{2}: checkout: moving from 9ca18de86d8bf300833f8b82d4fbc08b736bf210 to develop
+9ca18de HEAD@{3}: merge develop: Merge made by the 'recursive' strategy.
+ab3fdc9 HEAD@{4}: commit: fix conflict rebase to master
+ffacab2 HEAD@{5}: rebase: change style feature3
+6bf6313 HEAD@{6}: rebase: add new styles
+caf1347 HEAD@{7}: rebase: add pic 04 to index.html
+a642796 HEAD@{8}: rebase: add pic
+0c3dccb (feature2, feature1) HEAD@{9}: rebase: checkout master
+57a2eca (HEAD -> master, origin/master, develop) HEAD@{10}: commit (merge): fix conflict to develop
+1c8829f (feature3) HEAD@{11}: merge feature3: Fast-forward
+9e85f54 HEAD@{12}: checkout: moving from feature4 to develop
+3d5cf46 (feature4) HEAD@{13}: checkout: moving from feature3 to feature4
+1c8829f (feature3) HEAD@{14}: rebase finished: returning to refs/heads/feature3
+1c8829f (feature3) HEAD@{15}: rebase: change style feature3
+9e85f54 HEAD@{16}: rebase: checkout develop
+49e109c HEAD@{17}: checkout: moving from feature4 to feature3
+3d5cf46 (feature4) HEAD@{18}: commit: change style feature4
+9e85f54 HEAD@{19}: checkout: moving from feature3 to feature4
+49e109c HEAD@{20}: commit: change style feature3
+c8770d0 HEAD@{21}: checkout: moving from feature4 to feature3
+9e85f54 HEAD@{22}: checkout: moving from feature3 to feature4
+c8770d0 HEAD@{23}: checkout: moving from feature4 to feature3
+9e85f54 HEAD@{24}: merge develop: Fast-forward
+bd0d4bc HEAD@{25}: checkout: moving from feature3 to feature4
+c8770d0 HEAD@{26}: merge develop: Merge made by the 'recursive' strategy.
+3a17bb9 HEAD@{27}: checkout: moving from feature3 to feature3
+3a17bb9 HEAD@{28}: rebase finished: returning to refs/heads/feature3
+3a17bb9 HEAD@{29}: rebase: add pic 04 to index.html
+6938c50 HEAD@{30}: rebase: add pic
+bd0d4bc HEAD@{31}: rebase: checkout feature4
+51c9d46 HEAD@{32}: checkout: moving from develop to feature3
+9e85f54 HEAD@{33}: merge feature4: Merge made by the 'recursive' strategy.
+51c9d46 HEAD@{34}: merge feature3: Fast-forward
+0c3dccb (feature2, feature1) HEAD@{35}: checkout: moving from feature4 to develop
+bd0d4bc HEAD@{36}: checkout: moving from feature3 to feature4
+51c9d46 HEAD@{37}: checkout: moving from develop to feature3
+0c3dccb (feature2, feature1) HEAD@{38}: checkout: moving from feature4 to develop
+bd0d4bc HEAD@{39}: commit: add new styles
+0c3dccb (feature2, feature1) HEAD@{40}: checkout: moving from develop to feature4
+0c3dccb (feature2, feature1) HEAD@{41}: checkout: moving from feature3 to develop
+51c9d46 HEAD@{42}: commit: add pic 04 to index.html
+a23d855 HEAD@{43}: commit: add pic
+0c3dccb (feature2, feature1) HEAD@{44}: checkout: moving from develop to feature3
+0c3dccb (feature2, feature1) HEAD@{45}: checkout: moving from master to develop
+0c3dccb (feature2, feature1) HEAD@{46}: merge develop: Fast-forward
+04d1207 HEAD@{47}: checkout: moving from feature2 to master
